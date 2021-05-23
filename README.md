@@ -1,6 +1,6 @@
 # ChunkBasedWorld
 
-ChunkBased World Generstion and Player Chunk Renderer.
+ChunkBased world generstion and player chunk renderer.
 
 ## Milestones Achieved:
 
