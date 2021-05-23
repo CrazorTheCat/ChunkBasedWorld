@@ -4,7 +4,7 @@ ChunkBased World Generstion and Player Chunk Renderer.
 
 ## Milestones Achieved:
 
-* World gnerator
+* World generator
 * Chunk renderer
 
 ## TODO Features
