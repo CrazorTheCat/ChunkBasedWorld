@@ -11,4 +11,4 @@ ChunkBased world generstion and player chunk renderer.
 
 * Physical player
 * Documentations
-* Infinite World Generatoe
+* Infinite World Generator
