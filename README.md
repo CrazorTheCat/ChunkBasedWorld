@@ -6,6 +6,6 @@ ChunkBased world generstion and player chunk renderer.
 
 - [x] World generator
 - [x] Chunk renderer
-- [] Physical player
-- [] Documentations
-- [] Infinite World Generator
+- [ ] Physical player
+- [ ] Documentations
+- [ ] Infinite World Generator
