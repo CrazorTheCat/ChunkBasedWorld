@@ -2,13 +2,10 @@
 
 ChunkBased world generstion and player chunk renderer.
 
-## Milestones Achieved:
+## Features:
 
-* World generator
-* Chunk renderer
-
-## TODO Features
-
-* Physical player
-* Documentations
-* Infinite World Generator
+- [x] World generator
+- [x] Chunk renderer
+- [] Physical player
+- [] Documentations
+- [] Infinite World Generator
